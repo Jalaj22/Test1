@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1599100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MainMenuTest.globalBefore()"
+            }
+          },
+          {
+            "result": {
+              "duration": 397600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MainMenuTest.localBefore()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "MARKETWATCH Test",
+        "description": "",
+        "id": "sharekhan-main-menu-feature;marketwatch-test",
+        "after": [
+          {
+            "result": {
+              "duration": 436548900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MainMenuTest.globalAfter()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1203140200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MainMenuTest.localAfter()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 70850460600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user present on HomePage",
+            "match": {
+              "location": "MainMenuTest.user_present_on_HomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 21795776800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "verify MARKETWATCH",
+            "match": {
+              "location": "MainMenuTest.verify_MARKETWATCH()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 13,
+            "name": "@SanityTest"
+          }
+        ]
+      }
+    ],
+    "name": "ShareKhan Main Menu Feature",
+    "description": "",
+    "id": "sharekhan-main-menu-feature",
+    "keyword": "Feature",
+    "uri": "E:/Selenium java program/cucumber_Naveen/src/main/java/Features/mainMenuTags.feature"
+  }
+]

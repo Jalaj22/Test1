@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="94.287923">
+<testcase classname="ShareKhan Main Menu Feature" name="MARKETWATCH Test" time="94.287923">
+<system-out><![CDATA[Given user present on HomePage..............................................passed
+Then verify MARKETWATCH.....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
